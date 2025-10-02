@@ -337,3 +337,11 @@ body.landing {
         max-width: 450px;
     }
 }
+
+/* Demo box for interactive examples */
+.demo-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px 0;
+    background: #f9f9f9;
+}
