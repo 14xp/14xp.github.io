@@ -1,0 +1,24 @@
+# GitHub Pages configuration
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Site settings (optional - these don't affect the static HTML files)
+title: Personal Website
+description: Writings and research results
+url: "https://14xp.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Include files that would normally be excluded
+include:
+  - robots.txt
+  - sitemap.xml
+  - rss.xml
+
+# Exclude files from processing
+exclude:
+  - README.md
