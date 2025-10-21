@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
+    <channel>
+        <title>Xavier Poncini</title>
+        <link>https://14xp.github.io/</link>
+        <description>Writing on developing basic science for machine learning</description>
+        <language>en-gb</language>
 
+        <item>
+            <title>Linear representations &amp; dynamics</title>
+            <link>https://14xp.github.io/pages/posts/note-on-linearity.html</link>
+            <description>A brief note on two forms of linearity that are relevant when interpreting machine learning models.</description>
+            <pubDate>Tue, 21 Oct 2025 02:00:00 GMT</pubDate>
+            <guid>https://14xp.github.io/pages/posts/note-on-linearity.html</guid>
+        </item>
+
+    </channel>
 </rss>
